@@ -10,4 +10,4 @@
 ## Тестовый прогон
 <https://github.com/Dalskaya/web/blob/18d3cc8e57cdb8c645302946f3167aede1256466/G8-Express%2Brun%2B2024_09_06%20(1).pdf>
 ## Cкриншот перехваченного HTTPs-запроса
-<Скриншот 18-10-2024 213056.jpg>
+<(https://github.com/Dalskaya/web/blob/576b27ac7789211386aad1925688d2ff950a7f25/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2018-10-2024%20213056.jpg)>
